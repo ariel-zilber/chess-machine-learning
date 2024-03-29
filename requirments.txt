@@ -1,0 +1,13 @@
+ipykernel
+pandas
+tqdm
+matplotlib
+seaborn
+scipy
+scikit-learn
+tslearn
+kaggle
+statsmodels
+xgboost
+catboost
+lightgbm

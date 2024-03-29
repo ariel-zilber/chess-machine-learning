@@ -1,0 +1,6 @@
+data/lichess/lichess/dataset_raw/*
+*.pkl
+*.csv
+*.egg
+*.ini
+*.json
